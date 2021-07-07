@@ -1,0 +1,6 @@
+{
+	"appId": "gallery",
+	"appName": "photo-gallery",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
